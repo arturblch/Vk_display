@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Vk Liquid Crystal Display
 
-You can use the [editor on GitHub](https://github.com/arturblch/Vk_display/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Usage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use `SerialDisplay_Vk.ino` for Arduino. Then run CMD in directory, write`python main.py` if you want run program with console. If you dont want console - write `python daemon.py` and then close console.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arturblch/Vk_display/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Versions
+- python v2.7
+- arduino v1.6.8
